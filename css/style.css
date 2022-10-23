@@ -1,0 +1,311 @@
+body{
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+header{
+    width: 1600px;
+    height: 80px;
+    display: flex;
+    
+}
+.header-all{
+    margin-top: 24px;
+    position: absolute;
+}
+.wrapper{
+    width: 1170px;
+    font-family: 'Roboto', sans-serif;
+}
+.web-studio-logo{
+    font-family: 'Raleway';
+    margin-left: 215px;
+}
+.web-logo{
+    font-weight: 700;
+    font-size: 26px;
+    text-decoration: none;
+    color: #2196F3;}
+.studio-logo{
+    font-weight: 700;
+    font-size: 26px;
+    color: black;
+    text-decoration: none;
+}
+.studio{
+    padding-left: 453px;
+    margin:32px 32px 453px ;
+    text-decoration: none;
+    color: #2196F3;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+        
+}
+.portfolio{
+    margin: 32px 32px 548px;
+    text-decoration: none;
+    color: #212121;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+}
+.contacts{
+    margin: 32px 32px 650px;
+    color: #212121;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-decoration: none;
+}
+.infomail{
+    margin-top: 32px;
+    padding-left: 344px;
+    text-decoration: none;
+    color: #2196F3;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+}
+.infotel{
+    margin-top: 32px;
+    padding-left:  50px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #757575;
+    text-decoration: none;
+}
+.first-page{
+    font-family: 'Roboto';
+    width: 1600px;
+    height: 100%;
+    left: 15px;
+    top: 65px;
+    background: #2F303A;
+    position: static;
+    display: flex;
+    margin-left: 15px;
+}
+.solutions{
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    color: #FFFFFF;
+    text-align: center;
+    margin: 265px 0 467px 467px;
+}
+.button-order{
+    cursor: pointer;
+    border-radius: 4px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    background-color: #2196F3;
+    margin: 200px auto;
+    color: #FFFFFF;
+    position: absolute;
+    width: 216px;
+    height: 50px;
+    left: 670px;
+    top: 315px;
+}
+.info {
+    display: flex;
+    text-align: center;
+}
+.details-ideas {
+    text-align: left;
+    margin-left: 215px;
+    margin-top: 109px;
+}
+
+.punctuality-task {
+    margin-top: 109px;
+    padding-left: 30px;
+    text-align: left;
+}
+
+.planning-consultation {
+    margin-top: 109px;
+    padding-left: 30px;
+    text-align: left;
+}
+
+.technology-significance {
+    margin-top: 109px;
+    padding-left: 30px;
+    text-align: left;
+}
+.details{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    color: #212121;
+}
+.ideas{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #757575;
+}
+.punctuality{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    color: #212121;
+}
+.task{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #757575;
+}
+.planning{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    color: #212121;
+}
+.consultation{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #757575;
+}
+.technology{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    color: #212121;
+}
+.significance{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #757575;
+}
+.what-we-do{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    color: #212121;
+    margin-top: 94px;
+    margin-left: 617px;
+}
+.images-for-main{
+    display: flex;
+    padding-top: 50px;
+}
+.computer-img{
+    margin-left: 30px;
+    margin-left: 215px;
+}
+.phone-img{
+    padding-left: 30px;
+}
+.tablet-img{
+    padding-left: 30px;
+}
+.team{
+    background-color: #F5F4FA;
+    height: 648px;
+    width: 1600px;
+    display: flex;
+}
+.our-team{
+    margin-left: 668px;
+    margin-top: 94px;
+    position: absolute;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+}
+
+.Igor-Dem{
+    text-align: center;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    background-color: white;
+    width: 270px;
+    height: 368px;
+    margin-left: 215px;
+    margin-top: 186px;
+}
+.olga-repina{
+    text-align: center;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    background-color: white;
+    border-radius: 0px 0px 4px 4px;
+    width: 270px;
+    height: 368px;
+    padding-left: 30px;
+    margin-top: 186px;
+}
+.micola-tarasov{
+    background-color: white;
+    width: 270px;
+    height: 368px;
+    padding-left: 30px;
+    margin-top: 186px;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+    text-align: center;
+}
+.mihailo-ermakov{
+    text-align: center;
+    background-color: white;
+    width: 270px;
+    height: 368px;
+    padding-left: 30px;
+    margin-top: 186px;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+}
+footer{
+    width: 1600px;
+    height: 252px;
+    background: #2F303A;
+}
+.web-studio-logo-down{
+    margin-left: 215px;
+    padding-top: 60px;
+    display: flex;
+}
+.web-logo-down{
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+    color: #2196F3;
+}
+.studio-logo-down{
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+    color: white;
+}
+.adress-down{
+    color: #F5F4FA;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 215px;
+    padding-top: 20px;
+}
+.info-mail-down{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+    margin-left: 215px;
+}
+.tel-number-down{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+    margin-left: 215px;
+
+}
